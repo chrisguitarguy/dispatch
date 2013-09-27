@@ -1,0 +1,6 @@
+Dispatch
+========
+
+An event dispatcher in go. Inspired by Symfony's event dispatcher.
+
+**WIP**
